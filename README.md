@@ -6,8 +6,8 @@ i'm using Selenium Driver, BeautifulSoup
 
 This Crawler work in 2 diferent ways :
 1. running query of specific words\ senetences -
-  - Facebook - 'https://www.facebook.com/search/top/?q=<your words or sentence>'
-  - Twitter - 'https://twitter.com/search?src=typd&q=<your words or sentence>'
+  - Facebook - 'https://www.facebook.com/search/top/?q=your words or sentence'
+  - Twitter - 'https://twitter.com/search?src=typd&q=your words or sentence'
 
 then collect all the tweets\ posts and comments contains the query.
 
